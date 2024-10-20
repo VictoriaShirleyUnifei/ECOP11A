@@ -1,0 +1,10 @@
+# Esquinas (ID, Coordenadas UTM)
+1 123456 987654
+2 123466 987644
+3 123476 987634
+4 123486 987624
+# Quadras (Rua, ID Esquina 1, ID Esquina 2)
+Rua_A 1 2
+Rua_B 2 3
+Rua_C 3 4
+Rua_D 4 1

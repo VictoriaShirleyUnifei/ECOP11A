@@ -1,0 +1,70 @@
+Item: 0001
+Data de compra: 15/03/2010
+Data de desfazimento: 12/05/2018
+Valor de compra: 2.500,00
+Tipo de item: informática
+Grupo de item: computadores
+Taxa de depreciação anual: 10%
+Item: 0002
+Data de compra: 22/07/2015
+Data de desfazimento:
+Valor de compra: 10.000,00
+Tipo de item: veículos
+Grupo de item: automóveis
+Taxa de depreciação anual: 15%
+Item: 0003
+Data de compra: 10/01/2017
+Data de desfazimento:
+Valor de compra: 1.200,00
+Tipo de item: escritório
+Grupo de item: cadeiras
+Taxa de depreciação anual: 12%
+Item: 0004
+Data de compra: 05/06/2012
+Data de desfazimento: 25/11/2020
+Valor de compra: 3.800,00
+Tipo de item: mobiliário
+Grupo de item: mesas
+Taxa de depreciação anual: 8%
+Item: 0005
+Data de compra: 19/09/2016
+Data de desfazimento:
+Valor de compra: 25.000,00
+Tipo de item: equipamentos pesados
+Grupo de item: máquinas industriais
+Taxa de depreciação anual: 20%
+Item: 0006
+Data de compra: 14/02/2014
+Data de desfazimento:
+Valor de compra: 5.400,00
+Tipo de item: informática
+Grupo de item: servidores
+Taxa de depreciação anual: 12%
+Item: 0007
+Data de compra: 30/11/2018
+Data de desfazimento:
+Valor de compra: 2.300,00
+Tipo de item: escritório
+Grupo de item: armários
+Taxa de depreciação anual: 6%
+Item: 0008
+Data de compra: 12/08/2020
+Data de desfazimento:
+Valor de compra: 500,00
+Tipo de item: informática
+Grupo de item: periféricos
+Taxa de depreciação anual: 15%
+Item: 0009
+Data de compra: 05/03/2011
+Data de desfazimento: 20/02/2019
+Valor de compra: 12.000,00
+Tipo de item: veículos
+Grupo de item: caminhões
+Taxa de depreciação anual: 20%
+Item: 0010
+Data de compra: 17/10/2013
+Data de desfazimento:
+Valor de compra: 1.800,00
+Tipo de item: mobiliário
+Grupo de item: estantes
+Taxa de depreciação anual: 7%
